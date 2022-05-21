@@ -160,7 +160,7 @@ local PredictionValue = 0.15634
                     Plr = getClosestPlayerToCursor()
                 game.StarterGui:SetCore("SendNotification", {
                     Title = "word loves u :3";
-                    Text = "untoggled on tgafn",
+                    Text = "unlocked them for u habibi",
                     Duration = 5
                 })
             end
