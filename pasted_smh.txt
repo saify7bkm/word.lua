@@ -1,10 +1,10 @@
 --whitelist start
-_G.Key = "ake021314"
+_G.Key = "01232A"
 
 local keys = {
-    "brtgala92341",
-    "ymo300231",
-    "ake021314"
+    "2052159B",
+    "124124Y",
+    "01232A"
 }
 
 local counter = 1
