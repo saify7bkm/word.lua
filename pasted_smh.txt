@@ -1,11 +1,10 @@
 --whitelist start
---Beemo's simple whitelist
-_G.Key = "Key1"
+_G.Key = "ym3ah201723"
 
 local keys = {
-    "Key1",
-    "Key2",
-    "key3"
+    "ym3ah201723",
+    "brtgala035135",
+    "saif021453"
 }
 
 local counter = 1
