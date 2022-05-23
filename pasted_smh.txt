@@ -1,5 +1,4 @@
 --whitelist start
-_G.Key = "Key1"
 
 local keys = {
     "brtgala92341",
